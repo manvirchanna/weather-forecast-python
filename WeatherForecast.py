@@ -2,6 +2,8 @@ from tkinter import *
 from PIL import Image, ImageTk
 from backendweather import *
 import datetime
+import SMTP
+import requests
 
 #printing about menu
 def About():
